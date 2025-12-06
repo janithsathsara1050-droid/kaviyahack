@@ -1,8 +1,8 @@
 {
   "name": "GHOST-MD",
   "description": "Javascript WhatsApp bot made by GHOST HUNTER",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "logo": "https://github.com/janithsathsara1050-droid/kaviyahack/blob/main/images/20251206_175817.png?raw=true",
+  "keywords": ["GHOST-MD"],
   "success_url": "/",
 
   "env": {
